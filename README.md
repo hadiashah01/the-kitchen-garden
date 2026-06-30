@@ -10,7 +10,7 @@ The goal of this project was to design and develop a premium hospitality website
 
 Click the preview image below to visit the live demo:
 
-![The Kitchen Garden Live Webpage Preview](./assets/The-Kitchen-Garden.png)
+![The Kitchen Garden Webpage Preview](./assets/The-Kitchen-Garden.png)
 
 ## Features
 
