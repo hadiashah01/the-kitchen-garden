@@ -10,27 +10,27 @@ The goal of this project was to design and develop a premium hospitality website
 
 Click the preview image below to visit the live demo:
 
-![The Kitchen Garden Webpage Preview](./assets/The-Kitchen-Garden.png)
+[![The Kitchen Garden Live Webpage Preview](./assets/The-Kitchen-Garden.png)](https://hadiashah01.github.io/the-kitchen-garden/)
 
 ## Features
 
-* Fully responsive design
-* Editorial-inspired layouts
-* Smooth scroll animations
-* Sticky navigation with scroll effects
-* Signature experiences section
-* Image gallery with magazine-style composition
-* Responsive call-to-action sections
-* Clean typography using EB Garamond and Inter
-* Consistent spacing and visual hierarchy
+- Fully responsive design
+- Editorial-inspired layouts
+- Smooth scroll animations
+- Sticky navigation with scroll effects
+- Signature experiences section
+- Image gallery with magazine-style composition
+- Responsive call-to-action sections
+- Clean typography using EB Garamond and Inter
+- Consistent spacing and visual hierarchy
 
 ## Technologies Used
 
-* HTML5
-* Tailwind CSS
-* JavaScript
-* Google Fonts
-* Material Symbols
+- HTML5
+- Tailwind CSS
+- JavaScript
+- Google Fonts
+- Material Symbols
 
 ## Project Structure
 
@@ -51,10 +51,10 @@ This project focuses on creating a premium digital experience through thoughtful
 
 The website has been designed to work across:
 
-* Desktop
-* Laptop
-* Tablet
-* Mobile
+- Desktop
+- Laptop
+- Tablet
+- Mobile
 
 ## Running the Project
 
